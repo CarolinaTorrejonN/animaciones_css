@@ -26,7 +26,7 @@ main {
     grid-area: seccion-principal;
     padding: 10px;
     text-align: center;
-    background-image: url(./img/laptop_dos.jpg);
+    background-image: url(./img/laptop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
